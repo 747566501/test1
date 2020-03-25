@@ -1,5 +1,6 @@
 [http]
 	sslBackend = openssl
 	sslCAInfo = D:/新git/Git/mingw64/ssl/certs/ca-bundle.crt
+	sslverify = false
 [credential]
 	helper = manager
